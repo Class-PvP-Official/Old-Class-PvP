@@ -1,0 +1,10 @@
+# Gradle
+.gradle
+build
+
+# IntelliJ
+.idea
+
+# Server File
+.server
+server.ps1

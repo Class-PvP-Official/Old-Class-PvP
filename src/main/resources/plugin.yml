@@ -1,0 +1,17 @@
+name: Ability
+main: io.github.rank.plugin.ability.AbilityPlugin
+version: 1.17.1
+api-version: 1.17
+author: AtSignRANK
+
+commands:
+  fly:
+    permission: op
+  class:
+    aliases:
+      - cl
+  lobby:
+    aliases:
+      - l
+  battlefield:
+    permission: op
