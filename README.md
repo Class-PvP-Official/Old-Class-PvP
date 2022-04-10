@@ -1,1 +1,1 @@
-Moved to [Class-PvP-Official](https://github.com/Class-PvP-Official/Class-PVP)
+Moved to [Class-PvP-Official](https://github.com/Class-PvP-Official/Renewal-Class-PVP)
